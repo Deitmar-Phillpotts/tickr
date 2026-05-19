@@ -1,0 +1,16 @@
+# virtual environment
+.venv/
+
+# python bytecode cache
+__pychache__/
+*.pyc
+
+# local data files 
+*.log
+
+# editor cruft
+.vscode/
+.idea/
+*.swp
+
+
